@@ -25,3 +25,8 @@ def list_sum(num_List):
         
 print(list_sum([2, 4, 5, 6, 7]))
 
+#write a python program to calculate the power of any number
+
+def power(a,b):
+    return a**b
+power(2,3)
